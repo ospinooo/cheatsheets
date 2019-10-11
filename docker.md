@@ -1,9 +1,11 @@
 
 # Docker
 
-
-
-
+Topics:
+- Volumes
+- Caching (Layers)
+- Size reduction (Alpine)
+- Multistage Builds
 
 ## Dockerfile
 ### Instructions
