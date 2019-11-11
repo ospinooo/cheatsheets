@@ -32,8 +32,10 @@ Use imperative mood
   - Refactor
   - Fix
 - Extra:
-  - Rework
-  - Polish
+  - Change
+  - Improve
+  - Redo
+  - Optimize
   - Revert
   - Correct
   - Release
