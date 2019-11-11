@@ -3,6 +3,7 @@
 # Commit Guideline
 
 
+Angular convention
 ```
 <type>[optional scope]: <description>
 
@@ -24,12 +25,15 @@ type:
 
 ## Keywords to use 
 Use imperative mood
-- Add 
-- Update
-- Rework
-- Polish
-- Revert
-- Correct
-- Remove
-- Release
-- Refactor
+- Main:
+  - Add 
+  - Remove
+  - Update
+  - Refactor
+  - Fix
+- Extra:
+  - Rework
+  - Polish
+  - Revert
+  - Correct
+  - Release
